@@ -1,10 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hugocesarleal&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugocesarleal&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" />
-</div>
-
 # 💫 Sobre Mim:
 🔭 Sou estudante de Engenharia de Computação no IFMG campus Bambuí.<br>📚 Já atuei como monitor das disciplinas de Algoritmos e Estrutras de Dados 1 e 2<br>🔍 Atualmente estou estudando sobre Redes de Computadores e Banco de Dados<br>⚡ Também tenho grande interesse nas áreas de eletrrônica e robótica<br>💼 Procuro oportunidades no mercado de tecnologia para aprimorar ainda mais meus conhecimentos na área<br>👨‍🏫 Projeto de Extensão em desenvolvimento durante minha graduação: Mentes Robóticas - O ensino da robótica colocado em prática em uma Escola no município de Bambuí 
 
@@ -15,9 +10,10 @@
 # 💻 Experiências:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hugocesarleal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hugocesarleal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hugocesarleal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hugocesarleal&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugocesarleal&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" />
+</div>
 
 ## 🏆 Troféus GitHub
 ![](https://github-profile-trophy.vercel.app/?username=hugocesarleal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
