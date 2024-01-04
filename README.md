@@ -1,10 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
 
-![hugocesarleal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hugocesarleal&theme=highcontrast&hide_border=true)
-
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Sadizin&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFF00&text_color=FFFFFF&bg_color=0d1117" alt="Sadizin github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadizin&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hugocesarleal&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugocesarleal&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 # 💫 Sobre Mim:
