@@ -7,8 +7,6 @@
 # 💻 Experiências:
 <img align="center" alt="Sadi-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> <img align="center" alt="Sadi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> <img align="center" alt="Sadi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <img align="center" alt="Sadi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"> <img align="center" alt="Sadi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <img align="center" alt="Sadi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
-
-# 📊 GitHub Stats:
 .box {
 	width: 300px;
 	height: 300px;
@@ -17,6 +15,9 @@
 	margin: auto;
 	text-align: center;
 }
+
+# 📊 GitHub Stats:
+
 <div class="box">
   <div align="center">  
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hugocesarleal&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" /> 
