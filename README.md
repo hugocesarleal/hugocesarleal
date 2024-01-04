@@ -9,9 +9,19 @@
 
 
 # 📊 GitHub Stats:
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hugocesarleal&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugocesarleal&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" />
+.box {
+	width: 300px;
+	height: 300px;
+	border-radius: 50%;
+	border: 1px solid #000;
+	margin: auto;
+	text-align: center;
+}
+<div class="box">
+  <div align="center">  
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hugocesarleal&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugocesarleal&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" />
+  </div>
 </div>
 
 
