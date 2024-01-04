@@ -1,3 +1,9 @@
+<label for="story">Tell us your story:</label>
+
+<textarea id="story" name="story" rows="5" cols="33">
+It was a dark and stormy night...
+</textarea>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B0E0E6&height=120&section=header"/>
 
 # 💫 Sobre Mim
@@ -14,11 +20,6 @@
 	<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugocesarleal&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
-<label for="story">Tell us your story:</label>
-
-<textarea id="story" name="story" rows="5" cols="33">
-It was a dark and stormy night...
-</textarea>
 
 ## 🏆 Troféus GitHub
 ![](https://github-profile-trophy.vercel.app/?username=hugocesarleal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
