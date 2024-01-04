@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00808B&height=120&section=header"/>
 
 # 💫 Sobre Mim:
 🔭 Sou estudante de Engenharia de Computação no IFMG campus Bambuí.<br>📚 Já atuei como monitor das disciplinas de Algoritmos e Estrutras de Dados 1 e 2<br>🔍 Atualmente estou estudando sobre Redes de Computadores e Banco de Dados<br>⚡ Também tenho grande interesse nas áreas de eletrônica e robótica<br>💼 Procuro oportunidades no mercado de tecnologia para aprimorar ainda mais meus conhecimentos na área<br>👨‍🏫 Projeto de Extensão em desenvolvimento durante minha graduação: Mentes Robóticas - O ensino da robótica colocado em prática em uma Escola no município de Bambuí 
@@ -26,6 +26,6 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
