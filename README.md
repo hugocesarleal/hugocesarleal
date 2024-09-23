@@ -12,7 +12,6 @@
 
 # 📊 GitHub Stats
 <div align="center">  
-	<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hugocesarleal&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" /> 
 	<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugocesarleal&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
