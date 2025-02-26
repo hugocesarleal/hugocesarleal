@@ -24,6 +24,8 @@
 ## 🌐 Redes
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@hugocesarleal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hugo-cesar-11170726a) 
 
+<img src="https://raw.githubusercontent.com/hugocesarleal/hugocesarleal/output/snake.svg" alt="Snake animation" />
+
 ---
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
