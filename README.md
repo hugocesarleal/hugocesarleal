@@ -27,9 +27,9 @@
 <img src="https://raw.githubusercontent.com/hugocesarleal/hugocesarleal/output/snake.svg" alt="Snake animation" />
 
 ---
-![](https://komarev.com/ghpvc/?username=hugocesarleal)
+
 <div align="center">
-![Visitor Count](https://profile-counter.glitch.me/hugocesarleal/count.svg)
+![](https://komarev.com/ghpvc/?username=hugocesarleal)
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B0E0E6&height=120&section=footer"/>
