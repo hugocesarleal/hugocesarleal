@@ -27,10 +27,7 @@
 <img src="https://raw.githubusercontent.com/hugocesarleal/hugocesarleal/output/snake.svg" alt="Snake animation" />
 
 ---
-
-<div align="center">
-![](https://komarev.com/ghpvc/?username=hugocesarleal)
-</div>
+![](https://komarev.com/ghpvc/?username=hugocesarleal&color=yellow&style=plastic&abbreviated=true)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B0E0E6&height=120&section=footer"/>
 
