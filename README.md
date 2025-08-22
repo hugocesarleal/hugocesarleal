@@ -28,9 +28,7 @@
 
 ---
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{hugocesarleal}/count.svg" /></p> 
-<br>
+![Visitor Count](https://profile-counter.glitch.me/hugocesarleal/count.svg)
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B0E0E6&height=120&section=footer"/>
