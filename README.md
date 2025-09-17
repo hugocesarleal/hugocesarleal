@@ -3,12 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1500&color=FFFFFF&random=false&width=435&lines=Bem-vindo!;Meu+nome+%C3%A9+Hugo%F0%9F%91%8B;Tenho+21+anos;Engenharia+de+Computa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 # 💫 Sobre Mim
-🔭 Sou estudante de Engenharia de Computação no IFMG campus Bambuí.
-🌍 Estou realizando um intercâmbio no Instituto Politécnico de Bragança - Portugal.
-📚 Já atuei como monitor das disciplinas de Algoritmos e Estruturas de Dados 1 e 2.
-🔍 Atualmente estou estudando sobre Paradigmas de Programação e Microcontroladores.
-⚡ Também tenho grande interesse nas áreas de eletrônica e robótica.
-💼 Procuro oportunidades no mercado de tecnologia para aprimorar ainda mais meus conhecimentos na área.
+🔭 Sou estudante de Engenharia de Computação no IFMG campus Bambuí.<br>
+🌍 Estou realizando um intercâmbio no Instituto Politécnico de Bragança - Portugal.<br>
+📚 Já atuei como monitor das disciplinas de Algoritmos e Estruturas de Dados 1 e 2.<br>
+🔍 Atualmente estou estudando sobre Paradigmas de Programação e Microcontroladores.<br>
+⚡ Também tenho grande interesse nas áreas de eletrônica e robótica.<br>
+💼 Procuro oportunidades no mercado de tecnologia para aprimorar ainda mais meus conhecimentos na área.<br>
 👨‍🏫 Projeto de Extensão em desenvolvimento durante minha graduação: Mentes Robóticas - O ensino da robótica colocado em prática em uma Escola no município de Bambuí.
 
 
