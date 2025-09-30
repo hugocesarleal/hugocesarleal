@@ -6,7 +6,7 @@
 🔭 Sou estudante de Engenharia de Computação no IFMG campus Bambuí.<br>
 🌍 Estou realizando um intercâmbio no Instituto Politécnico de Bragança - Portugal.<br>
 📚 Já atuei como monitor das disciplinas de Algoritmos e Estruturas de Dados 1 e 2.<br>
-🔍 Atualmente estou estudando sobre Paradigmas de Programação e Microcontroladores.<br>
+🔍 Atualmente estou estudando sobre Desenvolvimento Mobile e Gestão de Redes.<br>
 ⚡ Também tenho grande interesse nas áreas de eletrônica e robótica.<br>
 💼 Procuro oportunidades no mercado de tecnologia para aprimorar ainda mais meus conhecimentos na área.<br>
 👨‍🏫 Projeto de Extensão em desenvolvimento durante minha graduação: Mentes Robóticas - O ensino da robótica colocado em prática em uma Escola no município de Bambuí.
