@@ -5,6 +5,7 @@
 # 💫 Sobre Mim
 🔭 Sou estudante de Engenharia de Computação no IFMG campus Bambuí.<br>
 🌍 Realizei um intercâmbio no Instituto Politécnico de Bragança - Portugal.<br>
+🍇 Durante esse período, desenvolvi um projeto de pesquisa sobre Visão Computacional aplicada a Viticultura.<br>
 📚 Já atuei como monitor das disciplinas de Algoritmos e Estruturas de Dados 1 e 2.<br>
 🔍 Atualmente estou estudando sobre Sistemas de Controle e Programação Paralela.<br>
 ⚡ Também tenho grande interesse nas áreas de eletrônica e robótica.<br>
