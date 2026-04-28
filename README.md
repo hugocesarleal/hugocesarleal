@@ -16,7 +16,7 @@
 # 💻 Experiências
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,java,python,arduino,html,css,js,postgres,mysql,react,php,haskell,django,vuetify,bootstrap,jquery,git,go&perline=19" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,java,python,arduino,html,css,js,postgres,mysql,react,php,haskell,django,vuetify,bootstrap,jquery,git,go,typescript&perline=19" />
   </a>
 </p>
 
