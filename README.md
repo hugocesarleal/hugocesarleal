@@ -14,8 +14,11 @@
 
 
 # 💻 Experiências
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,python,arduino,html,css,js,postgres,mysql,react,php,haskell,django,vuetify,bootstrap,jquery,git,go)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,java,python,arduino,html,css,js,postgres,mysql,react,php,haskell,django,vuetify,bootstrap,jquery,git,go" />
+  </a>
+</p>
 
 
 # 📊 GitHub Stats
