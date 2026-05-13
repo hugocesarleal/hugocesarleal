@@ -25,9 +25,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=upgradecraftbr&show_icons=true&theme=dracula&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hugocesarleal&show_icons=true&theme=dracula&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upgradecraftbr&layout=compact&theme=dracula&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugocesarleal&layout=compact&theme=dracula&hide_border=true)
 
 </div>
 
