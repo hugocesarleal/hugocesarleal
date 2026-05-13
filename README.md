@@ -24,11 +24,11 @@
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hugocesarleal&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hugocesarleal&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hugocesarleal&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hugocesarleal&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hugocesarleal&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hugocesarleal&theme=github_dark)
 
 </div>
 
