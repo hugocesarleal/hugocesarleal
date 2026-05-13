@@ -28,8 +28,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hugocesarleal&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hugocesarleal&theme=github_dark)
-
 </div>
 
 
