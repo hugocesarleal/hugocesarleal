@@ -25,9 +25,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugocesarleal&show_icons=true&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hugocesarleal&show_icons=true&theme=dracula"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugocesarleal&layout=compact&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hugocesarleal&layout=compact&theme=dracula"/>
 
 </div>
 
