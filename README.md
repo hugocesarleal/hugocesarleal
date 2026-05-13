@@ -21,7 +21,7 @@
 </p>
 
 
-## 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
