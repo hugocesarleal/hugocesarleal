@@ -23,7 +23,10 @@
 
 # 📊 GitHub Stats
 <div align="center">  
-	<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugocesarleal&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" />
+	![GitHub Stats](https://github-readme-stats.vercel.app/api?username=upgradecraftbr&show_icons=true&theme=dracula&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upgradecraftbr&layout=compact&theme=dracula&hide_border=true)
+
 </div>
 
 
