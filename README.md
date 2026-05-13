@@ -20,14 +20,15 @@
   </a>
 </p>
 
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hugocesarleal&show_icons=true&theme=dracula"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hugocesarleal&theme=dracula)
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hugocesarleal&layout=compact&theme=dracula"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hugocesarleal&theme=dracula)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hugocesarleal&theme=dracula)
 
 </div>
 
