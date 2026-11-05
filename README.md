@@ -5,7 +5,7 @@
 # 💫 Sobre Mim
 🔭 Sou estudante de Engenharia de Computação no IFMG campus Bambuí.<br>
 💼 Estagiário na Yuv Tecnologia (Akroz Group), atuando com IA e Dados, desenvolvendo modelos de Visão Computacional com YOLO.<br>
-🌍 Realizei um intercâmbio no Instituto Politécnico de Bragança - Portugal.<br>
+🌍 Realizei um intercâmbio na Universidade Politécnica de Bragança - Portugal.<br>
 🍇 Durante esse período, desenvolvi um projeto de pesquisa sobre Visão Computacional aplicada a Viticultura.<br>
 📚 Já atuei como monitor das disciplinas de Algoritmos e Estruturas de Dados 1 e 2.<br>
 🔍 Atualmente estou estudando sobre Sistemas Embarcados e Processamento Digital de Imagens.<br>
